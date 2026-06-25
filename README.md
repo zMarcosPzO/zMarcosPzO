@@ -23,21 +23,16 @@ Atualmente estou estudando:
 - 🧠 Lógica de programação  
 - 🖥️ Visual Studio  
 
----
+
 
 Áreas de interesse:
-
 - Conseguir minha primeira oportunidade na área de TI  
 - Evoluir como desenvolvedor  
 - Criar projetos próprios  
 - Aprender mais linguagens 
 
 
-
-
-
-
-## 📫 Contato
+📫 Contato
 
 - 💼 LinkedIn: [](https://www.linkedin.com/in/marcos-paulo-levandosqui-teixeira-6b83a12a2/)
 
