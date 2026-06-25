@@ -34,7 +34,7 @@ Atualmente estou estudando:
 
 📫 Contato
 
-- 💼 LinkedIn: [](https://www.linkedin.com/in/marcos-paulo-levandosqui-teixeira-6b83a12a2/)
+- 💼 LinkedIn: https://www.linkedin.com/in/marcos-paulo-levandosqui-teixeira-6b83a12a2/
 
 
 
